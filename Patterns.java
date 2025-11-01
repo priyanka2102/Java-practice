@@ -48,8 +48,6 @@ public class Patterns {
 				System.out.print(" ");
 			}
 			System.out.println();
-		
-		
 		}
 		
 	}
